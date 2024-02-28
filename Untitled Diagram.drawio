@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T21:02:54.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.7" etag="Xw1JYrXmEgC3T424pNWh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T21:08:39.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wwzrt7vKgoQTg8wM58nq" version="23.1.7" type="github">
   <diagram name="Page-1" id="pJrm57bfrxL9smMv0XKp">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nmzzejQFe_mqu_o2dXy9-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry width="850" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="nmzzejQFe_mqu_o2dXy9-3" value="Username" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmzzejQFe_mqu_o2dXy9-4" value="Password" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmzzejQFe_mqu_o2dXy9-5" value="Login" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b3b3b3;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
